@@ -21,7 +21,7 @@ Apart from coding, I also occasionally write articles on my life, travels, etc. 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/pjmanning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjmanning&hide=java,html&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjmanning&hide=java,html&count_private=true&theme=algolia" />
 </a>
 <a href="https://github.com/pjmanning">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pjmanning&show_icons=true&line_height=27&count_private=true&theme=algolia" alt="PJ's GitHub Stats" />
