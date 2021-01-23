@@ -3,7 +3,7 @@
 # Hey, doods & doodettes! <img src="https://raw.githubusercontent.com/pjmanning/pjmanning/main/wave.gif" width="30px">
 
 My name is PJ Manning - I'm a indie developer from New Jersey but have been living around the world for the past 10 years. 
-<br/>You can find me on [![Twitter][1.2]][1].
+<br/>You can find me [@pj_manning](https://pjmanning.dev).
 
 ## &#x270d; Blog & Writing
 
