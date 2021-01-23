@@ -1,8 +1,9 @@
 [![Header](https://raw.githubusercontent.com/pjmanning/pjmanning/main/readme_header.png "Header")](https://pjmanning.dev/)
 
-# Hey, doods! <img src="https://raw.githubusercontent.com/pjmanning/pjmanning/main/wave.gif" width="30px">
+# Hey, doods & doodettes! <img src="https://raw.githubusercontent.com/pjmanning/pjmanning/main/wave.gif" width="30px">
 
-My name is PJ Manning - I'm a indie developer from New Jersey but have been living around the world for the past 10 years. You can find me on [![Twitter][1.2]][1].
+My name is PJ Manning - I'm a indie developer from New Jersey but have been living around the world for the past 10 years. 
+<br/>You can find me on [![Twitter][1.2]][1].
 
 ## &#x270d; Blog & Writing
 
@@ -20,19 +21,19 @@ Apart from coding, I also occasionally write articles on my life, travels, etc. 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/pjmanning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjmanning&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjmanning&hide=java,html&theme=algolia" />
 </a>
 <a href="https://github.com/pjmanning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pjmanning&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="PJ's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pjmanning&show_icons=true&line_height=27&count_private=true&theme=algolia" alt="PJ's GitHub Stats" />
 </a>
 
 <a href="https://github.com/pjmanning/pjmanning-web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pjmanning&repo=pjmanning-web&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pjmanning&repo=pjmanning-web&theme=algolia" />
 </a>
 
 
 <a href="https://github.com/pjmanning/animali-web-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pjmanning&repo=animali-web-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pjmanning&repo=animali-web-app&theme=algolia" />
 </a>    
 
 <!-- links to social media icons -->
