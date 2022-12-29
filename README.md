@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/pjmanning/pjmanning/main/readme_header.png "Header")](https://pjmanning.dev/)
+[![Header](https://user-images.githubusercontent.com/1847324/209905800-5f0d51e0-c919-4410-b3aa-7bbec815ac48.png "Header")](https://pjmanning.dev)
 
 # Hey, doods & doodettes! <img src="https://raw.githubusercontent.com/pjmanning/pjmanning/main/wave.gif" width="30px">
 
