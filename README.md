@@ -2,7 +2,7 @@
 
 # Hey, doods & doodettes! <img src="https://raw.githubusercontent.com/pjmanning/pjmanning/main/wave.gif" width="30px">
 
-My name is Phil Manning - I'm a developer and designer originally from New Jersey, USA 🇺🇸
+My name is Phil Manning - I'm a designer & engineer originally from New Jersey, USA 🇺🇸
 
 I attended school at Elon University in North Carolina 📚
 
@@ -36,7 +36,7 @@ I occasionally write articles on my life, travels, etc. [Monthly Newsletter](htt
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjmanning&hide=java,html&count_private=true" />
 </a>
 <a href="https://github.com/pjmanning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pjmanning&show_icons=true&line_height=27&count_private=true" alt="PJ's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pjmanning&show_icons=true&line_height=40&count_private=true" alt="PJ's GitHub Stats" />
 </a>
 
 <!-- links to social media icons -->
